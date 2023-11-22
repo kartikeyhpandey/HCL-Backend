@@ -1,4 +1,4 @@
-# HCL-Backend
+# HCL Backend
 
 ## Table of Contents
 
